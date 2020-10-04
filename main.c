@@ -4,6 +4,8 @@
 //standard input/output function which contains printf(), scanf() functions
 //place all the functions above main()
 //save before compile 
+//reference : https://www.programiz.com/c-programming/examples/swapping
+// added my own twist using menu system.
 
 //swap num using temp variable
 int withTemp(){
